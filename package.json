@@ -7,9 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "eslint": "^3.19.0",
-    "eslint-config-lighthouselabs": "lighthouse-labs/eslint-config-lighthouselabs"
-  }
+  "license": "ISC"
 }
